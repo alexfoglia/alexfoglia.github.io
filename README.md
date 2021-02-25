@@ -1,2 +1,2 @@
-# alexfoglia.github.io
-This is my resume
+# Resume
+This is my professional resume
